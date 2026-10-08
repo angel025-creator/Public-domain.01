@@ -107,9 +107,9 @@
     <!-- EDIT 7: the boxes under Services. Copy a whole <div class="panel"> block to add another -->
     <h2>Services</h2>
     <div class="grid">
-      <div class="panel"><h3>our website</h3><p>A one-sentence description of this service.</p></div>
-      <div class="panel"><h3>failed</h3><p>failed to loead</p></div>
-      <div1 class="panel"><h3>failed</h3><p>failed to load</p></div>
+      <div class="panel"><h3>our server</h3><p>https://v-d-s-n-1.onrender.com</p></div>
+      <div class="panel"><h3>failed</h3><p>failed to load</p></div>
+      <div class="panel"><h3>failed</h3><p>failed to load</p></div>
     </div>
   </section>
 
@@ -120,8 +120,8 @@
       <table>
         <thead><tr><th>Date</th><th>Announcement</th></tr></thead>
         <tbody>
-          <tr><td>October 8, 2026</td><td>Your first announcement goes here.</td></tr>
-          <tr><td>October 1, 2026</td><td>Your second announcement goes here.</td></tr>
+          <tr><td>October 8, 2026</td><td>new stronger connection</td></tr>
+          <tr><td>October 1, 2026</td><td>new update to the server</td></tr>
         </tbody>
       </table>
     </div>
@@ -130,7 +130,7 @@
   <section id="contact">
     <!-- EDIT 9: contact details -->
     <h2>v.s.d.n.costumer.support@gmail.com</h2>
-    <p>Email: <a href="mailto:you@example.com">you@example.com</a><br>
+    <p>Email: <a href="mailto:v.s.d.n.costumer.support@gmail.com">you@example.com</a><br>
     Address:#####################</p>
   </section>
 
